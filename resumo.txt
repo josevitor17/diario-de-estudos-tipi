@@ -1,0 +1,1 @@
+"Este projeto ‚ um di riopara registrar o aprendizado em git e github"
